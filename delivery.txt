@@ -1,0 +1,5 @@
+1,123 Main St,Pretoria,0001,0712345678
+2,45 Park Ave,Johannesburg,2000,0723456789
+3,78 Hill Rd,Durban,4000,0734567890
+4,22 Beach Rd,Cape Town,8000,0745678901
+5,10 City Rd,Bloemfontein,9300,0756789012

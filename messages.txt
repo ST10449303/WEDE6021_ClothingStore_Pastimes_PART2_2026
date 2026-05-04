@@ -1,0 +1,5 @@
+1,2,Is this item still available?
+2,1,Yes it is available
+3,4,Can you lower the price?
+4,3,Sure, I can give discount
+5,2,When can you ship it?

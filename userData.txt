@@ -1,0 +1,5 @@
+John Doe,john@mail.com,john123,password1,verified,buyer
+Jane Smith,jane@mail.com,jane123,password2,pending,buyer
+Mike Brown,mike@mail.com,mike123,password3,verified,buyer
+Sara Khan,sara@mail.com,sara123,password4,pending,buyer
+Leo King,leo@mail.com,leo123,password5,verified,buyer

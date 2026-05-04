@@ -1,0 +1,5 @@
+Vintage Jacket,Stylish jacket,Jackets,M,Nike,Good,250.00,1,available
+Denim Jeans,Blue jeans,Bottoms,L,Levis,Good,180.00,1,available
+Hoodie,Warm hoodie,Tops,M,Adidas,New,300.00,2,available
+Dress,Summer dress,Dresses,S,Zara,Good,150.00,2,available
+Sneakers,Casual shoes,Shoes,8,Nike,Good,220.00,3,available

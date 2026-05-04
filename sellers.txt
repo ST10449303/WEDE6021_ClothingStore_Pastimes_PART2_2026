@@ -1,0 +1,5 @@
+1,0712345678,Pretoria,approved
+2,0723456789,Johannesburg,approved
+3,0734567890,Durban,approved
+4,0745678901,Cape Town,approved
+5,0756789012,Bloemfontein,approved
